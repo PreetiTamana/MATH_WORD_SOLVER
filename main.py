@@ -42,7 +42,7 @@ Answer: {result} apples
 
 def main():
 
-    print("\n🧠 MATH WORD PROBLEM SOLVER")
+    print("\n MATH WORD PROBLEM SOLVER")
     print("-" * 40)
 
     while True:
@@ -54,7 +54,7 @@ def main():
 
         solution = solve_problem(text)
 
-        print("\n📘 Solution:")
+        print("\n Solution:")
         print(solution)
 
 
